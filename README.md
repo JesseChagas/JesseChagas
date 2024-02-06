@@ -7,15 +7,15 @@
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JesseChagas&layout=compact)
 
 ## 💻 Skills
-- HTML ![HTML Icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
-- CSS ![CSS Icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
-- JavaScript ![JavaScript Icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
-- Bootstrap ![Bootstrap Icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg)
-- PHP ![PHP Icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg)
-- Python ![Python Icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
-- Java ![Java Icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)
-- Laravel ![Laravel Icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg)
-- MYSQL ![SQL Icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo" />
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo" />
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo" />
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo" />
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" width="42" alt="php logo" />
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo" />
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo" />
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" width="42" alt="php logo" />
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo" />
 
 ## 🔗 LinkedIn
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jessechagas-dev/)
