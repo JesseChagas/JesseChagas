@@ -1,4 +1,4 @@
-# Bem-vindo ao meu perfil do GitHub! 👋
+# Bem-vindo ao meu perfil!
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JesseChagas&show_icons=true&count_private=true)
@@ -17,9 +17,12 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" width="42" alt="php logo" />
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo" />
 
-## 🔗 LinkedIn
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jessechagas-dev/)
-
 ## 📄 Apresentação
-Olá! Eu sou Jesse, um apaixonado por tecnologia e desenvolvimento. Estou sempre em busca de aprender e colaborar em projetos interessantes. Vamos construir algo incrível juntos!
+Olá! Me chamo Jessé, gosto muito de tecnologia e desenvolvimento. Estou sempre em busca de aprender e colaborar em projetos interessantes. Vamos construir algo incrível juntos!
 
+## 🔗Social Media
+<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=JNew&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo " />
+
+<a href="https://www.linkedin.com/in/jessechagas-dev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Jessé &color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
