@@ -21,5 +21,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jessechagas-dev/)
 
 ## 📄 Apresentação
-Olá! Eu sou [SEU_NOME], um apaixonado por tecnologia e desenvolvimento. Estou sempre em busca de aprender e colaborar em projetos interessantes. Vamos construir algo incrível juntos!
+Olá! Eu sou Jesse, um apaixonado por tecnologia e desenvolvimento. Estou sempre em busca de aprender e colaborar em projetos interessantes. Vamos construir algo incrível juntos!
 
