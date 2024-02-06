@@ -7,15 +7,15 @@
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JesseChagas&layout=compact)
 
 ## 💻 Skills
-- HTML ![HTML Icon](https://github.com/favicon.ico)
-- CSS ![CSS Icon](https://github.com/favicon.ico)
-- JavaScript ![JavaScript Icon](https://github.com/favicon.ico)
-- Bootstrap ![Bootstrap Icon](https://github.com/favicon.ico)
-- PHP ![PHP Icon](https://github.com/favicon.ico)
-- Python ![Python Icon](https://github.com/favicon.ico)
-- Java ![Java Icon](https://github.com/favicon.ico)
-- Laravel ![Laravel Icon](https://github.com/favicon.ico)
-- SQL ![SQL Icon](https://github.com/favicon.ico)
+- HTML ![HTML Icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
+- CSS ![CSS Icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
+- JavaScript ![JavaScript Icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+- Bootstrap ![Bootstrap Icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg)
+- PHP ![PHP Icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg)
+- Python ![Python Icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
+- Java ![Java Icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)
+- Laravel ![Laravel Icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg)
+- MYSQL ![SQL Icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)
 
 ## 🔗 LinkedIn
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jessechagas-dev/)
